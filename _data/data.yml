@@ -174,16 +174,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: fMRI analysis
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: DTI analysis
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Statistical analysis with Stata or R
+        level: 90%
 
-      - name: HTML5 & CSS
+      - name: Neuropsychological Evaluation
         level: 95%
 
       - name: Ruby on Rails
