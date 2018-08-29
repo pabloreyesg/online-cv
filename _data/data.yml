@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Pablo Reye
+    name: Pablo Reyes
     tagline: Neuroscientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -43,13 +43,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a researcher in human neurosciences and I have been a teacher in areas such as neuroanatomy, perception, neuropsychology, brain, and behaviour. When I was studying for the doctorade I was developing neuroimaging biomarkers fo neuropsychiatric diseases. Additionally, before I had worked in neuroimagen, I had decide on study cognition in healthy and people with neuropsychological syndromes.
+      I am a researcher in human neurosciences and I have been a teacher in areas such as neuroanatomy, perception, neuropsychology, brain, and behavior. When I was studying for the doctorate I was developing neuroimaging biomarkers for neuropsychiatric diseases. Additionally, before I had worked with neuroimages, I had decided on study cognition in healthy and people with neuropsychological syndromes. I have signed up in several projects in dementia, traumatic brain injury, preterm birth, and sleep disorders.
       
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
 education:
 
     - degree: Doctorate in Engineer
@@ -166,23 +161,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: fMRI Analysis
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: DTI Analysis
         level: 98%
 
-      - name: Angular
+      - name: Statistical Analysis with behavioral data
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Experiment programmer
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Neuropsychological Evaluation
+        level: 100%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Teaching
+        level: 100%
 
 footer: >
   
