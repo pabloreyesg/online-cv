@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Pablo A. Reyes G
+    name: Pablo Reyes
     tagline: Neuroscientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -31,25 +31,20 @@ sidebar:
         level: Professional
         
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
       - item: Cooking
+        link:
+
+      - item: Blogging
+        link:
+
+      - item: Gardening
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+I am a researcher in human neurosciences and I have been a teacher in areas such as neuroanatomy, perception, neuropsychology, brain, and behavior. When I was studying for the doctorate I was developing neuroimaging biomarkers for neuropsychiatric diseases. 
+Additionally, before I had worked in neuroimaging, I had participated in research about cognition in healthy and people with neuropsychological syndromes.      Second paragraph if required.
 
 education:
 
