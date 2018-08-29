@@ -7,30 +7,27 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Pablo A. Reyes G
+    tagline: Neuroscientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: pareyes@unal.edu.co
+    phone: +57 3143704072
+    website: cerebrosocial.com #do not add http://
+    linkedin: pabloreyesg
+    github: pabloreyesg
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@parapapush'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
-      - idiom: English
+      - idiom: Spanish
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
         
     interests:
@@ -55,9 +52,14 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+
+    - degree: Doctorate in Engineer
+      university: Pontificia Universidad Javeriana
+      time: 20014-2018
+
+    - degree: MSc in Neuroscience
+      university: Universidad Nacional de Colombia
+      time: 2007 - 201o
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,9 +70,9 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Psychology
+      university: Universidad Nacional de Colombia
+      time: 2000 - 2005
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
