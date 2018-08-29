@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Pablo Reyes
+    name: Pablo A. Reyes G
     tagline: Neuroscientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -31,28 +31,24 @@ sidebar:
         level: Professional
         
     interests:
+      - item: Climbing
+        link:
+
+      - item: Snowboarding
+        link:
+
       - item: Cooking
         link:
 
-      - item: Blogging
-        link:
-
-      - item: Gardening
-        link:
-
-
 career-profile:
-     title: Career Profile
-     summary: |
-       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-       adipiscing elit. You can [download this free resume/CV template here]().
-       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-       Donec quam felis, ultricies nec, pellentesque eu.
- 
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-    I am a researcher in human neurosciences and I have been a teacher in areas such as neuroanatomy, perception, neuropsychology, brain, and behavior. When I was studying for the doctorate I was developing neuroimaging biomarkers for neuropsychiatric diseases. Additionally, before I had worked in neuroimaging, I had participated in research about cognition in healthy and people with neuropsychological syndromes.      Second paragraph if required.
-
 education:
 
     - degree: Doctorate in Engineer
@@ -68,10 +64,8 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-
           - Bullet point
           - Bullet point 
-
     - degree: BSc in Psychology
       university: Universidad Nacional de Colombia
       time: 2000 - 2005
@@ -81,10 +75,8 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-
           - Bullet point
           - Bullet point 
-
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -99,10 +91,8 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-
           - Bullet point
           - Bullet point 
-
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
@@ -112,10 +102,8 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-
           - Bullet point
           - Bullet point
-
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
@@ -125,17 +113,14 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-
           - Bullet point
           - Bullet point
-
 projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
     assignments:
       - title: Velocity
         link: "#hook"
@@ -163,7 +148,6 @@ publications:
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-
     papers:
       - title: The Art of Computer Programming
         authors: Donald E. Knuth
@@ -181,16 +165,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: fMRI analysis
+      - name: Python & Django
         level: 98%
 
-      - name: DTI analysis
+      - name: Javascript & jQuery
         level: 98%
 
-      - name: Statistical analysis with Stata or R
-        level: 90%
+      - name: Angular
+        level: 98%
 
-      - name: Neuropsychological Evaluation
+      - name: HTML5 & CSS
         level: 95%
 
       - name: Ruby on Rails
@@ -200,4 +184,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  
